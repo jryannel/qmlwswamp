@@ -1,0 +1,13 @@
+{
+    "name" : "echoserver",
+    "version": "0.1.0",
+    "author": "jryannel",
+    "description": "A simple node echo server",
+    "dependencies": {
+        "ws": "0.4.x"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    }
+}
